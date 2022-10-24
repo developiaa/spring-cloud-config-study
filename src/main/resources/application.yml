@@ -18,7 +18,8 @@ spring:
           search-locations: file:///${user.home}/dev/study/native-file-repo
         git:
           #          uri: file:///Users/developia/dev/study/git-local-repo
-          uri: https://github.com/developiaa/{git repository name} # 깃허브 운용시
+#          uri: https://github.com/developiaa/{git repository name} # 깃허브 운용시
+          uri: https://github.com/joneconsulting/spring-cloud-config
         # private repository
 #          username: [username]
 #          password: [password]

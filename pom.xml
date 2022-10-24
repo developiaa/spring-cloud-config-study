@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>study.developia</groupId>
-    <artifactId>configservice</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>config-service</artifactId>
+    <version>1.0</version>
     <name>config-service</name>
     <description>config-service</description>
     <properties>

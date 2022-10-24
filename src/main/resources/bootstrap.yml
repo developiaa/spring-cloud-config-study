@@ -1,6 +1,8 @@
 encrypt:
 #  key: abcdefghijklmnopqrstuvexzy1234567890
   key-store:
-    location: file://${user.home}/dev/study/keystore/apiEncryptionKey.jks
+#    location: file://${user.home}/dev/study/keystore/apiEncryptionKey.jks
+    # container 내부 키파일 경로
+    location: file:/apiEncryptionKey.jks
     password: 1q2w3e4r
     alias: apiEncryptionKey
